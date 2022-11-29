@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Benson Karanja @geneb726
 - 👀 I’m interested in software development
-- 🌱 I’m a developer using spring, flutter and vue
-- 💞️ I’m looking to collaborate on any project in java or dart
+- 🌱 I’m a developer using spring, flutter and react
+- 💞️ I’m looking to collaborate on any project in java, react or dart
 - 📫 How to reach me geneb726@gmail.com
 
 <!---
